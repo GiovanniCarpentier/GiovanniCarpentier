@@ -1,4 +1,18 @@
-### Hi there 👋 My name is Giovanni
+# Hi there 👋 My name is Giovanni
+
+### Welcome to my GitHub. I am a Cyber Security student. I have always had a significant interest in IT and decided to make my passion my job by pursuing a degree related to it.
+
+--- 
+
+## 🔭 I’m currently working on ...
+### AI based crypto trading bot
+### Cybersecurity Projects
+- Network Scanner, Pentesting Tools, etc.
+
+## 🌱 I’m currently learning ...
+### ELK Stack (Elasticsearch, Kibana, Logstash)
+- Elastic Security, ML, etc.
+### Expanding my cybersecurity knowledge everyday
 
 <!--
 **GiovanniCarpentier/GiovanniCarpentier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
